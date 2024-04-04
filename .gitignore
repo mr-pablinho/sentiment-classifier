@@ -1,2 +1,3 @@
 .venv
 data/amazon_reviews.csv
+__pycache__/
