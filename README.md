@@ -26,7 +26,3 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 nltk.download('all')
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
